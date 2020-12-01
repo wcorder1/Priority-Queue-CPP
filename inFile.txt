@@ -1,0 +1,15 @@
+enqueue C 3
+enqueue D 4
+enqueue A 1
+enqueue E 5
+enqueue G 7
+enqueue F 6
+enqueue B 2
+enqueue I 7
+enqueue J 30
+enqueue P 400
+enqueue R 4
+length
+list
+isFull
+Quit
